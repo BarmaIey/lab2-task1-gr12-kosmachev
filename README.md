@@ -1,11 +1,16 @@
 # Overview
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+Решение задачи 1 лабораторной работы №3. Программа выводит два сообщения:"Hello World" и "Goodbye World" 
 
 # Usage
 
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
+**Автор:** Космачев Даниил, 12 группа.
+
+Программа запускается из командной строки. Пример: ./src/main.c
 
 # Building
 
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+Проект настроен для сборки в Replit: достаточно нажать кнопку **Run**.  
+Для ручной компиляции выполните в терминале: gcc src/main.c -o main  
+
+Бинарный файл `main` не сохраняется в репозитории (добавлен в .gitignore).
