@@ -1,2 +1,5 @@
 language = "c"
-run = "gcc -o hello /home/runner/project2/src/hello.c"
+run = "gcc -o main /home/runner/workspace/src/main.c /home/runner/workspace/src/string_task.c"
+
+[agent]
+expertMode = true
